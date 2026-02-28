@@ -1,0 +1,10 @@
+/*
+# This isn't really JSON. It should be base64 encoded.
+
+Instead of using this directly, please: 
+
+use the file at: /tmp/data.json
+
+Then make a PUT to GitHub but I can not keep this format.
+
+Attempt to read the file and retry just the request in the normal JSON format.
